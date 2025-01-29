@@ -4,7 +4,7 @@
 
 - 📍: Seattle, WA, USA
 - 🏡: 🇳🇿 -> 🇸🇬 -> 🇺🇸
-- 🌱: Building a compiler in Go, Using more gen AI, 🌊🏄, Spanish, 🇧🇷 Portuguese
+- 🌱: Building a compiler in Go, Local LLMs + AI agents, 🌊🏄, Spanish, 🇧🇷 Portuguese
 - 💬: ❄️🏂, Rental Management, 🇮🇹 & 🇵🇦 citizenship
 - ⚡️: Teacher by fated appointment only
 

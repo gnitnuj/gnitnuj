@@ -10,13 +10,13 @@
 
 ### How I write code
 
-- VS Code -> Cursor, Kitty -> Ghostty, Helix
+- VS Code -> Zed, Kitty -> Ghostty, Helix
 - JS, Ruby, Typescript, Go, Python
-- React, Rails, MUI
+- React, Rails, MUI, ~Angular~
 
 ### On (or around) my desk
 
-- 🕹️ Machine: 7800x3d & 7900xt in Meshroom v2
-- M1 Macbook Pro 16, M3 Macbook Pro 14, M4 Mac Mini, PS5
+- 🕹️ / LLM Machine: 7800x3d & 7900xt in Meshroom v2
+- M1 Macbook Pro 16, M3 Macbook Pro 14, M4 Mac Mini, M1 iPad Pro, PS5
 - Acer Predator x45, Kanto YU6 & SUB8, Focusrite Solo, Shure MV7, Insta 360 x4
 - Flexispot E7Q, Balolo Setup Cockpit

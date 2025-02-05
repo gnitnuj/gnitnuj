@@ -10,7 +10,7 @@
 
 ### How I write code
 
-- ~VS Code~ Zed + qwwe2.5-coder-7b, ~Kitty~ Ghostty, Helix, mise-en-place
+- ~VS Code~ Zed + qwen2.5-coder-7b, ~Kitty~ Ghostty, Helix, mise-en-place
 - JS, Ruby, TypeScript, Go, Python
 - React, Rails, MUI, ~Angular~, ~Foundation~
 

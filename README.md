@@ -4,14 +4,14 @@
 
 - 📍: Seattle, WA, USA
 - 🏡: 🇳🇿 -> 🇸🇬 -> 🇺🇸
-- 🌱: Local LLMs + AI agents, 🌊🏄, Spanish, 🇧🇷 Portuguese
+- 🌱: Local LLMs + AI agents, 🌊🏄, Español, Português
 - 💬: ❄️🏂, Real Estate & Taxes, 🇮🇹 & 🇵🇦 citizenship
 - ⚡️: Teacher by fated appointment only
 
 ### How I write code
 
 - ~VS Code~ Zed + qwen2.5-coder-7b, ~Kitty~ Ghostty, Helix, mise-en-place
-- JS, Ruby, TypeScript, Go, Python
+- JS, Ruby, Python, Go
 - React, Rails, MUI, ~Angular~, ~Foundation~
 
 ### On (or around) my desk

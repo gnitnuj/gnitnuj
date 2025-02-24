@@ -12,7 +12,7 @@
 
 - ~VS Code~ Zed + qwen2.5-coder-7b, ~Kitty~ Ghostty, Helix, mise-en-place
 - JS, Ruby, Python, Go
-- React, Rails, MUI, ~Angular~, ~Foundation~
+- ~React~, ~Rails~, Next.js, ~MUI~ Tailwind, ~Angular~, ~Foundation~
 
 ### On (or around) my desk
 
